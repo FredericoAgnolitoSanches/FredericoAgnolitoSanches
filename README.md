@@ -54,23 +54,9 @@
 ---
 
 ## 📂 Projetos em destaque
-
-> 💡 Fixe aqui seus melhores repositórios (veja a dica no final do guia) ou liste-os abaixo.
-
+--> https://github.com/FredericoAgnolitoSanches/CRUD-s-python
 - 🔹 **Sistema de Cadastro em Python** — menu principal com vários módulos de cadastro, funções e manipulação de dados
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FredericoAgnolitoSanches&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FredericoAgnolitoSanches&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FredericoAgnolitoSanches&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
 
 ---
 
