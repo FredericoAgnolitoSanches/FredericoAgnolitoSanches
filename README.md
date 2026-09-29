@@ -23,7 +23,7 @@
 
 - 🎓 Cursando **Engenharia de Software** no **IFSP – São Carlos** (2026)
 - 💼 Buscando meu **primeiro estágio em Desenvolvimento de Software / Backend**
-- 🐍 Foco em **Python**, sistemas de cadastro, automação, análise de dados, Machine Learning e IA
+- 🐍 Foco em **Python** e **C** , sistemas de cadastro, desenvolvimento back-end e IA
 - 📍 São Carlos / Sertãozinho – SP
 - 🌎 Inglês nível **B1** (conversação, leitura e escrita)
 
@@ -46,9 +46,9 @@
 
 ## 🚀 O que eu faço
 
-- 🗂️ Desenvolvo **sistemas de cadastro em Python** organizados em menu principal, com navegação entre módulos e funcionalidades
+- 🗂️ Desenvolvo **sistemas de cadastro em Python/C** organizados em menu principal, com navegação entre módulos e funcionalidades
 - ⚙️ Aplico **estruturas de controle, funções, manipulação de dados** e boa organização de código
-- 🤖 Estudo e pratico **automação, análise de dados, Machine Learning e Inteligência Artificial** com Python
+- 🤖 Estudo e pratico **ferramentas que me auxiliam** no desenvolvimento back-end
 - 🔀 Uso **Git e GitHub** para controle de versão e organização dos meus projetos
 
 ---
